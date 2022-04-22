@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "7. Composite_Pattern/1.0.0": {
+        "runtime": {
+          "7. Composite_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7. Composite_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
